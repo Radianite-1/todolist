@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #4169e1;
+  font-family: 'Roboto Mono';font-size: 22px;
+  text-decoration-color: black;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    'Roboto';
+}
